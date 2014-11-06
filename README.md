@@ -1,11 +1,11 @@
 Object Calisthenics
 ===================
 
-#Exercise: Bank account
+##Exercise: Bank account
 
 Think of your personal bank account experience When in doubt, go for the simplest solution
 
-## Requirements
+### Requirements
 
 Deposit and Withdrawal
 
@@ -17,7 +17,7 @@ Statement printing
 
 Statement filters (just deposits, withdrawal, date)
 
-# Rules
+## Rules
 
 1. One level of indentation per method
 2. Don’t use the ELSE keyword
